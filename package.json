@@ -1,0 +1,17 @@
+{
+  "name": "forin_promise_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chenxuan <523764720@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "forin_promise": "https://github.com/cxwithyxy/forin_promise.git",
+    "sleep-promise": "^8.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.2"
+  },
+  "scripts": {
+    "start": "tsc & node index.js"
+  }
+}
